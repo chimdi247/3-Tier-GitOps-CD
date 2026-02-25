@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: chimdi247/frontend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: chimdi247/frontend:f8f311d99d76db801249f3d6c449cf65225ba1c6
           ports:
             - containerPort: 80
 ---
