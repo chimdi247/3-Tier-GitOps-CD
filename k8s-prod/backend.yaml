@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: chimdi247/backend:9104858d5daadf68791e8394381297988f05dde5
+          image: chimdi247/backend:6f8f262c4b9ada149a410b28ab358cad20efcabe
           ports:
             - containerPort: 5000
           env:
